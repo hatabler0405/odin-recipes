@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is my recipe website which will link to different recipes that will allow people to follow along and make the dish. Currently I just have the html boilerplate down, btu when completed I should have used the skills of html linking, adding images, and structuring a website via <p>, <h1-6>, and other elements.
